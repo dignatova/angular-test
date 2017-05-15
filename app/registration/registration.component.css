@@ -1,0 +1,5 @@
+.panel-heading a {
+    text-decoration: none;
+    transition: all 0.5s;
+    color: #FFF;
+}
